@@ -19,7 +19,7 @@ public class GameShould {
 
     @Test
     @Description("Not allow a player to place a counter on a square that is already taken")
-    public void 
+    public void
 
     @Test
     public void letPlayerXGoFirst() {
