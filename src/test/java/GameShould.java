@@ -17,9 +17,17 @@ public class GameShould {
         assertEquals("X", selectedCell);
     }
 
-    @Test
-    @Description("Not allow a player to place a counter on a square that is already taken")
-    public void
+    //remaining tests to do:
+    //don't allow a player to play an already-played square
+    //@Test
+    ///@Description("Not allow a player to place a counter on a square that is already taken")
+    ///public void
+
+    //game over, no winner (a draw)
+
+    //game over, Y wins on either horizontal, vertical or diagonal
+
+    //game over, Y wins on either horizontal, vertical or diagonal
 
     @Test
     public void letPlayerXGoFirst() {
